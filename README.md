@@ -1,5 +1,7 @@
 # a11y-helper - chrome extension
 
+Extension to blur images without alt text and to show outlines of elements.
+
 ## Features
 
 - Blur images that do not have alt text
