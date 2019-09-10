@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "a11y-helper",
+  "version": "0.1.0",
+  "description": "Extension to blur images without alt text and to show outlines of elements.",
+  "browser_action": {
+    "default_title": "a11y helper",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "storage"]
+}

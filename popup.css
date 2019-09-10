@@ -1,0 +1,31 @@
+html {
+  font-size: 62.5%;
+}
+body#a11y-helper {
+  width: 300px;
+  box-sizing: border-box:
+  padding: 15px 20px;
+  background: #fff;
+  color: #444954;
+  font-size: 1.6rem;
+}
+
+body#a11y-helper button {
+  width: 100%;
+  padding: 8px 12px;
+  margin: 5px auto;
+}
+
+body#a11y-helper label {
+  cursor: pointer;
+  display: flex;
+  width: 100%;
+  padding: 8px 12px 8px 0;
+  margin: 5px auto;
+  align-items: center;
+}
+
+body#a11y-helper label > span {
+  padding-left: 4px;
+}
+

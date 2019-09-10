@@ -1,0 +1,38 @@
+body.a11y-helper-blur img:not([alt]) {
+  filter: blur(18px);
+}
+
+body.a11y-helper-outline * {
+  outline: 2px solid #000000;
+  outline-offset: -2px;
+}
+
+body.a11y-helper-outline * * {
+  outline: 2px solid #401b86;
+  outline-offset: -2px;
+}
+
+body.a11y-helper-outline * * * {
+  outline: 2px solid #2546c9;
+  outline-offset: -2px;
+}
+
+body.a11y-helper-outline * * * * {
+  outline: 2px solid #2ad424;
+  outline-offset: -2px;
+}
+
+body.a11y-helper-outline * * * * * {
+  outline: 2px solid #f0ec25;
+  outline-offset: -2px;
+}
+
+body.a11y-helper-outline * * * * * * {
+  outline: 2px solid #f07537;
+  outline-offset: -2px;
+}
+
+body.a11y-helper-outline * * * * * * * {
+  outline: 2px solid #db3a4c;
+  outline-offset: -2px;
+}
